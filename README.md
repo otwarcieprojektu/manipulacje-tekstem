@@ -1,4 +1,4 @@
-#Tworzenie interfejsu do manipulacji tekstami
+# Tworzenie interfejsu do manipulacji tekstami
 
 Twoim zadaniem jest stworzenie prostego interfejsu użytkownika w języku JavaScript, który umożliwi użytkownikowi manipulację tekstami. Interfejs powinien zawierać pola tekstowe do wprowadzenia tekstu oraz przyciski do wykonywania różnych operacji na tych tekstach.
 
